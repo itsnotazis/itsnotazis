@@ -9,7 +9,7 @@ It's me! [itsnotazis](https://github.com/itsnotazis) and i do some stuff...
 - Frameworks:
   - React, Express, Fiber
 
-- Tools & database:
+- Tools & Database:
   - Docker, PostgreSQL, Redis
 
 
