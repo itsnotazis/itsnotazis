@@ -1,18 +1,18 @@
 🐈‍⬛  
 
 Hello, there 👋  
-It's me! [itsnotazis](https://github.com/itsnotazis) and i do some stuff...
 
-- Langs:
-  - JavaScript, TypeScript, Go
+It's me! [itsnotazis](https://github.com/itsnotazis) and i do some stuff..  
 
-- Frameworks:
-  - React, Express, Fiber
+- *Languages*:
+  - TypeScript, Go
 
-- Tools & Database:
-  - Docker, PostgreSQL, Redis
+- *Frameworks*:
+  - React, Express
 
-
-And it my stuff. Thanks!  
+- *Tools & Database*:
+  - Vim, PostgreSQL, Redis  
+  
+Connect on: [Instagram](https://instagram.com/itsnotazis), [Twitter](https://x.com/itsnotazis)
 
 <p align="right">:octocat:</p>
